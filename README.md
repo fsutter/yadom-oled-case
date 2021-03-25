@@ -1,5 +1,5 @@
 # Yadom OLED case
-Example to use the [Yadom OLED case](https://yadom.fr/plateformes-de-developpement/raspberry-pi/boitiers/boitier-din-avec-afficheur-oled-et-clavier.html) in Python.
+Example to use the [Yadom OLED case](https://yadom.fr/plateformes-de-developpement/raspberry-pi/boitiers/boitier-din-avec-afficheur-oled-et-clavier.html) in Python 3.
 
 ## Prerequisites
 
